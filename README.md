@@ -189,13 +189,13 @@ Constructed and curated a custom 12,000-message dataset covering code-mixed lang
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ravuri-Jeetu&show_icons=true"
-    alt="Jeetendra's GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=Gayathri0625&show_icons=true&theme=tokyonight"
+    alt="Gayathri's GitHub Stats"
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravuri-Jeetu&layout=compact"
-    alt="Jeetendra's Most Used Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri0625&layout=compact&theme=tokyonight"
+    alt="Gayathri's Most Used Languages"
     height="165"
   />
 </p>
