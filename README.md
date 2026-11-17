@@ -117,7 +117,7 @@ An NLP sentiment classification pipeline developed during my AI & ML internship 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![MMCV](https://img.shields.io/badge/MMCV-007ACC?style=for-the-badge&logo=python&logoColor=white)
+![MCNN](https://img.shields.io/badge/MCNN-6A5ACD?style=for-the-badge&logo=python&logoColor=white)
 ![FaceNet](https://img.shields.io/badge/FaceNet-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
