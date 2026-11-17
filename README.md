@@ -4,17 +4,16 @@
 
 I'm a final-year **B.Tech student in Computer Science & Engineering (Artificial Intelligence & Machine Learning)** at **B V Raju Institute of Technology**.
 
-I enjoy building intelligent software systems that combine **software engineering, artificial intelligence, machine learning, computer vision, NLP, and modern web technologies**. My experience includes developing AI-driven applications, optimizing machine learning systems, building real-time computer vision solutions, and exploring 3D scene understanding from monocular RGB video.
+I enjoy building intelligent software systems that combine **software engineering, artificial intelligence, machine learning, computer vision, NLP, and modern web technologies**. My experience includes developing AI-driven applications, optimizing machine learning systems, building real-time computer vision solutions.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Final-year **B.Tech CSE (AI & ML)** student at B V Raju Institute of Technology
-- 💻 Strong foundation in **Java, Python, C++, Data Structures & Algorithms, and OOP**
-- 🤖 Experience in **AI Engineering, NLP, Generative AI, Computer Vision, and Deep Learning**
-- 🔬 Exploring **3D Scene Understanding, Monocular Reconstruction, and Spatial AI**
-- 🏆 Recipient of the **Best Paper Award at PEIS International Conference 2026**
+- 💻 Strong foundation in **Python, C, Data Structures & Algorithms, OOP and SQL**
+- 🤖 Experience in **AI Engineering, NLP, Computer Vision, and Deep Learning**
+- 🏆 Research Article Accepted for Publication and Selected for Internet -- 7th International Conference on Electronics and Sustainable Communication Systems (ICESCS), **Paper ID: 435**.
 - 🚀 **NASA Space Apps Hackathon Finalist & Galactic Problem Solver**
 - 🧠 Interested in building **scalable software, intelligent applications, and emerging technology prototypes**
 
@@ -69,20 +68,20 @@ https://github.com/Ravuri-Jeetu/Face_Liveness_Detection_using-YOLOv8
 
 ---
 
-### 🔷 SpaceScope — NASA Bioscience Dashboard
+### 🔷 Meteor Madness - Meteoroid Impact Simulator
 
-An interactive analytics platform developed during the **NASA Space Apps Challenge** to organize and visualize insights from NASA bioscience research.
+An interactive web application developed during the **NASA Space Apps Challenge** to simulate meteor impact using realistic physics and 3D visualizations.
 
-**My Role:** Frontend Development & AI/ML Support
+**My Role:** Frontend Development & Data Collection
 
 **Key Contributions:**
 
-- Developed responsive **frontend components and interactive data visualizations using Next.js and TypeScript**.
-- Contributed to a platform organizing insights from **600+ NASA bioscience research papers** across multiple mission domains.
+- Developed responsive **frontend components and interactive data visualizations using Next.js and Flask**.
+- Contributed to a platform organizing insights from **600+ NASA exoscience research papers** across multiple mission domains.
 - Supported **AI/ML development and integration** through research-data processing and presentation of structured mission insights.
 - Helped transform complex research information into an interactive and accessible dashboard.
 
-**Tech Stack:** Next.js, TypeScript, JavaScript, AI/ML, Data Visualization
+**Tech Stack:** Next.js, React, Tailwind CSS, Flask, SQLite, AI/ML, Data Visualization
 
 🔗 Repository:  
 https://github.com/Ravuri-Jeetu/nasa_project
@@ -108,25 +107,28 @@ An NLP sentiment classification pipeline developed during my AI & ML internship 
 
 ### Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### AI, Machine Learning & Computer Vision
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![MMCV](https://img.shields.io/badge/MMCV-007ACC?style=for-the-badge&logo=python&logoColor=white)
+![FaceNet](https://img.shields.io/badge/FaceNet-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
-**Technologies:** YOLOv8, XGBoost, NLP, Generative AI, Computer Vision, Deep Learning, TF-IDF, COLMAP
+**Technologies:** YOLOv8, XGBoost, NLP, Generative AI, Computer Vision, Deep Learning, TF-IDF, Machine Translation
 
 ### Web Development & Frameworks
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Databases
 
@@ -136,50 +138,50 @@ An NLP sentiment classification pipeline developed during my AI & ML internship 
 ### Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
 ## 📄 Research & Publication
 
-### 3D Semantic Scene Understanding from Monocular Video
+### AI Powered Multiligual Voice-To-Sign Language System Using 3D Sign Language Avatar
 
-**PEIS International Conference 2026**
+**International Conference on Electronics and Sustainable Communication Systems**
 
-- 🏆 **Best Paper Award — Emerging Technologies Track**
+- 🏆 **Research Article Accepted for Publication and Selected for Internet**
 - 👤 **Corresponding Author**
-- 📄 **Paper ID: 206**
+- 📄 **Paper ID: 435**
 
-The research presents a monocular 3D scene-understanding framework integrating object detection, depth estimation, semantic segmentation, and 3D reconstruction to generate structured spatial understanding from RGB video.
+Developed an end-to-end system that converts spoken or uploaded audio into English text and maps the translated text to corresponding sign-language animations using a 3D avatar.
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-### 🥇 Best Paper Award
-**PEIS International Conference 2026**
+### 🥇 Research Article Accepted for Publication and Selected for Internet
+**International Conference on Electronics and Sustainable Communication Systems**
 
 Awarded for:
 
-**"3D Semantic Scene Understanding from Monocular Video"**
-
-Emerging Technologies Track.
+**"AI Powered Multiligual Voice-To-Sign Language System Using 3D Sign Language Avatar"**
 
 ### 🚀 NASA Space Apps Challenge
 **Hackathon Finalist & Galactic Problem Solver**
 
-Contributed to **SpaceScope**, a NASA bioscience analytics platform for organizing and presenting insights from 600+ research papers.
+Contributed to **Meteor Madness**, a NASA exoscience interactive web application to simulate meteor impact using realistic physics and 3D visualizations.
 
-### 🟢 NVIDIA
-**Introduction to Transformer-Based Natural Language Processing**
 
-Certificate of Competency demonstrating knowledge of transformer-based NLP concepts and applications.
+### 🟢 Diigoo Tech
+**AI and ML Intern**
 
-### 💻 Smart Interviews
-**Smart Coder Certification**
+Engineered a chat sentiment classifier using TF-IDF + CatBoost
+Constructed and curated a custom 12,000-message dataset covering code-mixed language, addressing a data gap absent in standard NLP benchmarks.
 
-- **Global Rank: 1,270 among 56,753 participants**
-- Demonstrated proficiency in **Data Structures, Algorithms, and Problem Solving**
+### 💻 Salesforce
+**Certified Agentforce Specialist**
+
+- Demonstrated proficiency in **Data Handling, Bot Creation and Management**
 
 ---
 
@@ -206,19 +208,18 @@ I'm particularly interested in:
 
 - Software Development & Problem Solving
 - Artificial Intelligence & Machine Learning
-- Computer Vision & 3D Scene Understanding
+- Computer Vision & Deel Learning
 - Natural Language Processing
 - Generative AI
-- Spatial AI
-- Emerging Technology Prototypes
+- SAAS
 
 ---
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/ravuri-jeetendra
-- **GitHub:** https://github.com/Ravuri-Jeetu
-- **Email:** ravurijeetendra2006@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/gangavarapu-gayathri-sri-53823b293/
+- **GitHub:** https://github.com/Gayathri0625/
+- **Email:** gayathri0625@gmail.com
 
 ---
 
