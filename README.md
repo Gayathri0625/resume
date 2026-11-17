@@ -1,6 +1,6 @@
 # Hi, I'm Gangavarapu Gayathri sri 👋
 
-### Software Developer | AI/ML Engineer | Computer Vision & NLP Enthusiast
+### Software Developer | AI/ML Engineer | Data Analyst
 
 I'm a final-year **B.Tech student in Computer Science & Engineering (Artificial Intelligence & Machine Learning)** at **B V Raju Institute of Technology**.
 
