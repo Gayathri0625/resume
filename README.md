@@ -189,7 +189,7 @@ Constructed and curated a custom 12,000-message dataset covering code-mixed lang
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Gayathri0625&show_icons=true&theme=github-dark"
+    src="https://github-readme-stats.vercel.app/api?username=Gayathri0625&show_icons=true&theme=transparent"
     alt="Gayathri's GitHub Stats"
     height="165"
   />
