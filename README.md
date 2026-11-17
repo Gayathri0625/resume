@@ -194,7 +194,7 @@ Constructed and curated a custom 12,000-message dataset covering code-mixed lang
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri0625&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri0625&layout=compact&theme=transparent"
     alt="Gayathri's Most Used Languages"
     height="165"
   />
@@ -203,11 +203,9 @@ Constructed and curated a custom 12,000-message dataset covering code-mixed lang
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Gayathri0625&theme=tokyonight)
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Gayathri0625&theme=tokyonight&no-frame=true&row=1)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Gayathri0625&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ## 📈 Contribution Graph
 
