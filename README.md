@@ -209,7 +209,7 @@ Constructed and curated a custom 12,000-message dataset covering code-mixed lang
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AjayUnukuru&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gayathri0625&theme=tokyo-night)
 
 ---
 
