@@ -200,6 +200,19 @@ Constructed and curated a custom 12,000-message dataset covering code-mixed lang
   />
 </p>
 
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Gayathri0625&theme=tokyonight)
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Gayathri0625&theme=tokyonight&no-frame=true&row=1)
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gayathri0625&theme=tokyo-night)
+
 ---
 
 ## 🎯 Current Interests
